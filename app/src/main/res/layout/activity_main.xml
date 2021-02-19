@@ -19,7 +19,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu2"
@@ -27,7 +28,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu3"
@@ -35,7 +37,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
     </TableRow>
 
     <TableRow
@@ -49,7 +52,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu5"
@@ -57,7 +61,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu6"
@@ -65,7 +70,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
     </TableRow>
 
     <TableRow
@@ -79,7 +85,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu8"
@@ -87,7 +94,8 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
 
         <Button
             android:id="@+id/bu9"
@@ -95,6 +103,7 @@
             android:layout_height="40pt"
             android:layout_marginRight="5pt"
             android:layout_marginBottom="5pt"
-            android:background="@color/white" />
+            android:background="@color/white"
+            android:onClick="buSelect" />
     </TableRow>
 </TableLayout>
